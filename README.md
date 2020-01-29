@@ -28,3 +28,12 @@ This is a simple README file one :)
 <html>
 	<h1>Hello</h1>
 </html>
+
+```render-babel
+	const firstName = "Amir"
+	
+	console.log(firstName);
+	function firstName (event){
+		return event;
+	}
+```
