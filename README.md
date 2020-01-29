@@ -30,10 +30,9 @@ This is a simple README file one :)
 </html>
 
 ```render-babel
-	const firstName = "Amir"
-	
-	console.log(firstName);
-	function firstName (event){
-		return event;
-	}
+const firstName = "Amir"
+console.log(firstName);
+function firstName (event){
+	return event;
+}
 ```
