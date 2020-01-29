@@ -23,3 +23,8 @@ This is a simple README file one :)
 
 	console.log(fullName);
 ```
+
+	const firstName = "Amirreza Hemmati";
+<html>
+	<h1>Hello</h1>
+</html>
