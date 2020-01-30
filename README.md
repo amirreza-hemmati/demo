@@ -1,5 +1,15 @@
-<div class="jumbotron">
-	<div style="background-color: red">
-		Hello World
-	</div>
-</div>
+```
+    const firstName = "Amirreza",
+	      lastName = "Hemmati",
+		  fullName = `${firstName} ${lastName}`
+	
+	console.log(fullName);
+```
+
+~~~
+    const firstName = "Amirreza",
+	      lastName = "Hemmati",
+		  fullName = `${firstName} ${lastName}`
+	
+	console.log(fullName);
+~~~
